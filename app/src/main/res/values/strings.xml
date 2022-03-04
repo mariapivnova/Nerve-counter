@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nerve counter</string>
+    <string name="txt_students">нервных клеток</string>
+    <string name="btn_students">Добавить потраченную нервную клетку</string>
+</resources>
